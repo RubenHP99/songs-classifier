@@ -8,8 +8,8 @@ Adiciónalmente, Se desarrolló una pequeña aplicación de escritorio utilizand
 La música es muy variada y las canciones casi nunca se ciñen a un solo género musical. Es común que una misma canción tenga elementos de varios géneros diferentes, lo que se refleja en los espectrogramas como una mezcla de patrones de sonido. Esto hace que sea complicado para un programa identificar de forma clara a qué género pertenece una canción. Esta complejidad plantea desafíos significativos para el modelo de clasificación basado en espectrogramas. El modelo debe ser capaz de identificar y diferenciar los patrones acústicos que se corresponden con múltiples géneros, así como de diferenciar cuáles son los más relevantes para la clasificación final de la canción.
 
 <p align="center">
-  <img src="ejemplo1.png" alt="Ejemplo1" width="800">
-  <img src="ejemplo2.png" alt="Ejemplo2" width="800">
+  <img src="ejemplo1.png" alt="Ejemplo1" width="600">
+  <img src="ejemplo2.png" alt="Ejemplo2" width="600">
   <img src="ejemplo3.png" alt="Ejemplo3" width="600">
 </p>
 
